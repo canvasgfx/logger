@@ -1,5 +1,5 @@
 {
-  "name": "@reactgular/logger",
+  "name": "@canvasgfx/logger",
   "version": "2.0.0",
   "description": "Console logging utility for Angular project.",
   "author": "reactgular.com",
@@ -14,10 +14,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactgular/logger"
+    "url": "https://github.com/canvasgfx/logger"
   },
   "bugs": {
-    "url": "https://github.com/reactgular/logger/issues"
+    "url": "https://github.com/canvasgfx/logger/issues"
   },
   "dependencies": {
     "tslib": "^2.0.0"
