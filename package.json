@@ -1,5 +1,5 @@
 {
-  "name": "@reactgular/logger",
+  "name": "@canvasgfx/logger",
   "version": "0.0.0",
   "description": "Console logging utility for Angular project.",
   "author": "reactgular.com",
@@ -7,10 +7,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactgular/logger"
+    "url": "https://github.com/canvasgfx/logger"
   },
   "bugs": {
-    "url": "https://github.com/reactgular/logger/issues"
+    "url": "https://github.com/canvasgfx/logger/issues"
   },
   "scripts": {
     "ng": "ng",
@@ -21,7 +21,6 @@
     "e2e": "ng e2e",
     "postbuild": "cp README.md ./dist/reactgular/logger/README.md"
   },
-  "private": true,
   "dependencies": {
     "@angular/common": "~10.1.1",
     "@angular/compiler": "~10.1.1",
